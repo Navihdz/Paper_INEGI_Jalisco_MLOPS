@@ -15,6 +15,13 @@ A continuación se muestra el pipeline utilizado en el proyecto:
 ![Captura 4](FinalReport/paper_screenshots/paper_4.JPG)
 ![Captura 5](FinalReport/paper_screenshots/paper_5.JPG)
 
+<img src="FinalReport/paper_screenshots/paper_1.JPG" width="50%" height="50%">
+<img src="FinalReport/paper_screenshots/paper_2.JPG" width="50%" height="50%">
+<img src="FinalReport/paper_screenshots/paper_3.JPG" width="50%" height="50%">
+<img src="FinalReport/paper_screenshots/paper_4.JPG" width="50%" height="50%">
+<img src="FinalReport/paper_screenshots/paper_5.JPG" width="50%" height="50%">
+
+
 ## Descarga del Articulo completo
 Puedes descargar el informe completo en formato PDF [aquí](Proyecto_final\FinalReport\paper.pdf).
 
