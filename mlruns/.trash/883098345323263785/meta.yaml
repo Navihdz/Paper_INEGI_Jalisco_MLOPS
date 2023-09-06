@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/883098345323263785
+creation_time: 1682852872100
+experiment_id: '883098345323263785'
+last_update_time: 1682898783211
+lifecycle_stage: active
+name: MixtureOfGaussians
+tags: {}

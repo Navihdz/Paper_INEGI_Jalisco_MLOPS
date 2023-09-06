@@ -1,0 +1,5 @@
+model:
+  type: example_hydra
+  params:
+    lr: 1
+    hyperparam2: 2

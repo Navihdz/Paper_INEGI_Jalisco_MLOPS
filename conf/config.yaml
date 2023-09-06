@@ -1,0 +1,10 @@
+# Ejemplo de archivo config.yaml
+
+# Sección "model"
+model:
+  # Subsección "type"
+  type: AdaBoost
+  # Subsección "params"
+  params:
+    # Parámetro "input_size"
+    num_stumps: 3

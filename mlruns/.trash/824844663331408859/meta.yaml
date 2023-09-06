@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/824844663331408859
+creation_time: 1682852550109
+experiment_id: '824844663331408859'
+last_update_time: 1682898789237
+lifecycle_stage: active
+name: DecisionTree
+tags: {}

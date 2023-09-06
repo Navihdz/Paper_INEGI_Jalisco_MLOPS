@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/442797665309063018/64101893eaf24786a8d8e2d6f62429fd/artifacts
+deleted_time: 1682855398030
+end_time: 1682854215508
+entry_point_name: ''
+experiment_id: '442797665309063018'
+lifecycle_stage: deleted
+run_id: 64101893eaf24786a8d8e2d6f62429fd
+run_name: MLP
+run_uuid: 64101893eaf24786a8d8e2d6f62429fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682854213159
+status: 4
+tags: []
+user_id: flaco
