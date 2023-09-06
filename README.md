@@ -7,6 +7,7 @@ La deserción escolar es un problema social y educativo en México y América La
 A continuación se muestra el pipeline utilizado en el proyecto:
 
 ![Pipeline](FinalReport/LatexImages/pipeline.JPG =250x250)
+<img src="FinalReport/LatexImages/pipeline.JPG" width=50% height=50%>
 
 ![Captura 1](FinalReport/paper_screenshots/paper_1.JPG)
 ![Captura 2](FinalReport/paper_screenshots/paper_3.JPG)
