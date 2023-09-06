@@ -8,11 +8,11 @@ A continuación se muestra el pipeline utilizado en el proyecto:
 
 ![Pipeline](FinalReport\LatexImages\pipeline.JPG)
 
-![Captura 1](FinalReport/paper_screenshots/paper_1.JPG)
-![Captura 2](FinalReport/paper_screenshots/paper_3.JPG)
-![Captura 3](FinalReport/paper_screenshots/paper_3.JPG)
-![Captura 4](FinalReport/paper_screenshots/paper_4.JPG)
-![Captura 5](FinalReport/paper_screenshots/paper_5.JPG)
+![Captura 1](FinalReport/paper_screenshots/paper_1.JPG =50%x)
+![Captura 2](FinalReport/paper_screenshots/paper_3.JPG =50%x)
+![Captura 3](FinalReport/paper_screenshots/paper_3.JPG =50%x)
+![Captura 4](FinalReport/paper_screenshots/paper_4.JPG =50%x)
+![Captura 5](FinalReport/paper_screenshots/paper_5.JPG =50%x)
 
 ## Descarga del Articulo completo
 Puedes descargar el informe completo en formato PDF [aquí](Proyecto_final\FinalReport\paper.pdf).
