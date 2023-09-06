@@ -18,6 +18,6 @@ A continuación se muestra el pipeline utilizado en el proyecto:
 <img src="FinalReport/paper_screenshots/paper_5.JPG" width="30%" height="30%">
 
 ## Descarga del Articulo completo
-Puedes descargar paper completo en formato PDF [aquí](Proyecto_final\FinalReport\paper.pdf).
+Puedes descargar paper completo en formato PDF [aquí](Proyecto_final/FinalReport/paper.pdf).
 
 ---
