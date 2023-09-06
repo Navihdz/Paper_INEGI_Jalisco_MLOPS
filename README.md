@@ -21,6 +21,14 @@ A continuación se muestra el pipeline utilizado en el proyecto:
 <img src="FinalReport/paper_screenshots/paper_4.JPG" width="50%" height="50%">
 <img src="FinalReport/paper_screenshots/paper_5.JPG" width="50%" height="50%">
 
+<div style="display: inline-block;">
+  <img src="FinalReport/paper_screenshots/paper_1.JPG" width="50%" height="50%">
+</div>
+<div style="display: inline-block;">
+  <img src="FinalReport/paper_screenshots/paper_2.JPG" width="50%" height="50%">
+</div>
+
+
 
 ## Descarga del Articulo completo
 Puedes descargar el informe completo en formato PDF [aquí](Proyecto_final\FinalReport\paper.pdf).
