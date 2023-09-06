@@ -22,10 +22,10 @@ A continuación se muestra el pipeline utilizado en el proyecto:
 <img src="FinalReport/paper_screenshots/paper_5.JPG" width="50%" height="50%">
 
 <div style="display: inline-block;">
-  <img src="FinalReport/paper_screenshots/paper_1.JPG" width="50%" height="50%">
+  <img src="FinalReport/paper_screenshots/paper_1.JPG" width="30%" height="30%">
 </div>
 <div style="display: inline-block;">
-  <img src="FinalReport/paper_screenshots/paper_2.JPG" width="50%" height="50%">
+  <img src="FinalReport/paper_screenshots/paper_2.JPG" width="30%" height="30%">
 </div>
 
 
