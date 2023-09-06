@@ -9,13 +9,15 @@ A continuación se muestra el pipeline utilizado en el proyecto:
 <img src="FinalReport/LatexImages/pipeline.JPG" width=50% height=50%>
 
 
-<img src="FinalReport/paper_screenshots/paper_1.JPG" width="50%" height="50%">
-<img src="FinalReport/paper_screenshots/paper_2.JPG" width="50%" height="50%">
-<img src="FinalReport/paper_screenshots/paper_3.JPG" width="50%" height="50%">
-<img src="FinalReport/paper_screenshots/paper_4.JPG" width="50%" height="50%">
-<img src="FinalReport/paper_screenshots/paper_5.JPG" width="50%" height="50%">
+## Algunas capturas del paper
+
+<img src="FinalReport/paper_screenshots/paper_1.JPG" width="30%" height="30%">
+<img src="FinalReport/paper_screenshots/paper_2.JPG" width="30%" height="30%">
+<img src="FinalReport/paper_screenshots/paper_3.JPG" width="30%" height="30%">
+<img src="FinalReport/paper_screenshots/paper_4.JPG" width="30%" height="30%">
+<img src="FinalReport/paper_screenshots/paper_5.JPG" width="30%" height="30%">
 
 ## Descarga del Articulo completo
-Puedes descargar el informe completo en formato PDF [aquí](Proyecto_final\FinalReport\paper.pdf).
+Puedes descargar paper completo en formato PDF [aquí](Proyecto_final\FinalReport\paper.pdf).
 
 ---
